@@ -1,0 +1,17 @@
+Movie-Rental-Analytics/
+│
+├── SQL Queries/
+│   ├── customer_analysis.sql
+│   ├── revenue_analysis.sql
+│   └── rental_trends.sql
+│
+├── Dashboard/
+│   └── movie_rental_dashboard.pbix
+│
+├── Dataset/
+│   └── sakila_database.sql
+│
+├── Screenshots/
+│   └── dashboard.png
+│
+└── README.md
