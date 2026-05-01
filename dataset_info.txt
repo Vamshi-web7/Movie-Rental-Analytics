@@ -1,0 +1,10 @@
+Dataset: Sakila Database
+
+Tables Used:
+
+* customer
+* rental
+* payment
+* film
+* category
+* inventory
