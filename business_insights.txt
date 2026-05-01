@@ -1,0 +1,5 @@
+Key Insights
+* Action movies had the highest rental count.
+* Repeat customers generated significant revenue.
+* Weekend rentals were higher than weekday rentals.
+* Certain categories contributed most to overall sales.
