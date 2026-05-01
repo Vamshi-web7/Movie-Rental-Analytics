@@ -1,0 +1,2 @@
+Summary:
+The project successfully identified rental trends, customer behavior patterns, and high-performing movie categories using SQL analysis and dashboard visualization.
