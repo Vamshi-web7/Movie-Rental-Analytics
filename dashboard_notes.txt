@@ -1,0 +1,15 @@
+Movie Rental Analytics Dashboard
+
+KPIs Included:
+
+* Total Revenue
+* Total Rentals
+* Active Customers
+* Top Movie Categories
+
+Charts Used:
+
+* Revenue Trend Chart
+* Rental Category Analysis
+* Customer Activity Dashboard
+
