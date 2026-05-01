@@ -1,0 +1,6 @@
+KPIs Tracked:
+* Monthly Revenue
+* Total Rentals
+* Customer Retention Rate
+* Top Performing Categories
+* Revenue Per Customer
